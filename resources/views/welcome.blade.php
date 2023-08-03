@@ -17,19 +17,7 @@
         </style>
     </head>
 
-    <!-- As a link -->
-<nav class="navbar bg-body-tertiary">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-  </div>
-</nav>
 
-<!-- As a heading -->
-<nav class="navbar bg-body-tertiary">
-  <div class="container-fluid">
-    <span class="navbar-brand mb-0 h1">Navbar</span>
-  </div>
-</nav>
 
     <body class="antialiased">
         <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
