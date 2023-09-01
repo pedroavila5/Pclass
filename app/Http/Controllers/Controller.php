@@ -8,5 +8,10 @@ use Illuminate\Routing\Controller as BaseController;
 
 class Controller extends BaseController
 {
+    public function welcome(){
+        return view('welcome.blade');
+        }
     use AuthorizesRequests, ValidatesRequests;
 }
+
+
